@@ -16,8 +16,7 @@ const server =  http.createServer((req,res)=>{
         eaque blanditiis alias neque minima assumenda? Harum facilis nulla accusamus assumenda cupiditate sunt ab?</h1>
         
 </body>
-</html> 
-        `)
+</html>  `)
 });
 
 server.listen(PORT,()=>{
