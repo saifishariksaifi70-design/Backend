@@ -1,0 +1,2 @@
+f loading the full file, Stream processes data chunk by chunk.
+ This makes it memoryefficient and faster for large files.This makes it memoryefficient and faster for large files.

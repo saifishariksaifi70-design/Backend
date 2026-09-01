@@ -1,0 +1,3 @@
+Node.js streams are used to handle data efficiently without loading the entire file into memory.
+Streams can read and write data in small chunks, which makes them useful for processing large files.
+This task demonstrates real-time file transfer progress using Node.js read and write streams.
